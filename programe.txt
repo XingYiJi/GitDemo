@@ -6,7 +6,3 @@ metho()
 {
 	print "my name is –°∑ ≈£"
 }
-metho22()
-{
-	print "my name is fri"
-}
